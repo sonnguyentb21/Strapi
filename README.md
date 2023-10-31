@@ -1,0 +1,2 @@
+# Strapi
+Strapi with MongoDB
